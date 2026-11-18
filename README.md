@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**johnjnsmith/johnjnsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with digital marketing, SEO, and emerging technologies, helping businesses strengthen their online presence and reach their target audiences.
 
-Here are some ideas to get you started:
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ChatGPT SEO and AI Search Optimization
+- Generative Engine Optimization (GEO)
+- Search Engine Optimization (SEO)
+- Content Marketing and Brand Visibility
+- Digital Growth Strategies
+
+## ChatGPT SEO Services
+
+I explore strategies that help businesses improve their visibility across ChatGPT and other AI-powered search platforms. These include content optimization, brand authority building, AI search visibility, and online discoverability.
+
+Learn more about [ChatGPT SEO Agency](https://www.appdupe.com/chatgpt-seo-agency).
